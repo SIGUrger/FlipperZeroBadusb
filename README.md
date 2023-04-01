@@ -16,7 +16,7 @@ This includes:
 ## Windows
 
 ### Fun
-[Play Jumpscare at Max Volume](Windows/Execution/Firewall/disableFirewall.txt)<br>
+[Play Jumpscare at Max Volume (You can also modif the jumpscare.ps1 script to change what wav audio to play)](Windows/Fun/jumpscare.txt)<br>
 
 ### Execution
 
