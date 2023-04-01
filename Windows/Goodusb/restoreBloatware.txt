@@ -1,0 +1,12 @@
+GUI R
+DELAY 80
+STRING powershell Start-Process powershell -Verb runAs
+DELAY 80
+ENTER
+DELAY 920
+SHIFT TAB
+DELAY 100
+ENTER
+DELAY 500
+STRING Get-AppxPackage -AllUsers | foreach{Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
+ENTER

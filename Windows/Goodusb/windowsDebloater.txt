@@ -1,0 +1,4 @@
+GUI R
+DELAY 80
+STRING powershell iwr -useb https://git.io/debloat|iex
+ENTER
