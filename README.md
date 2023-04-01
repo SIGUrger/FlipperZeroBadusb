@@ -15,6 +15,16 @@ This includes:
 
 ## Windows
 
+### Execution
+
+#### Firewall
+[Disable Firewall](Windows/Execution/Firewall/disableFirewall.txt)<br>
+[Enable Firewall](Windows/Execution/Firewall/enableFirewall.txt)<br>
+
+#### Windows Defender
+[Disable Windows Defender](Windows/Execution/WindowsDefender/disableWindowsDefender.txt)<br>
+[Enable Windows Defender](Windows/Execution/WindowsDefender/enableWindowsDefender.txt)<br>
+
 ### GoodUsb
 
 [Activate Windows License](Windows/Goodusb/activateWindows.txt)<br>
