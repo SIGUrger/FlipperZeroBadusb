@@ -15,6 +15,9 @@ This includes:
 
 ## Windows
 
+### Fun
+[Play Jumpscare at Max Volume](Windows/Execution/Firewall/disableFirewall.txt)<br>
+
 ### Execution
 
 #### Firewall
