@@ -1,12 +1,12 @@
 GUI R
 DELAY 80
-STRING powershell Start-Process powershell -Verb runAs
+STRING powershell
 DELAY 80
-ENTER
-DELAY 920
+CTRL-SHIFT ENTER
+DELAY 500
 SHIFT TAB
 DELAY 100
 ENTER
-DELAY 500
+DELAY 600
 STRING Get-AppxPackage -AllUsers | foreach{Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 ENTER
