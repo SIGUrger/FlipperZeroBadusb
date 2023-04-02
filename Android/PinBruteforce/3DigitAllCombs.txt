@@ -1,4 +1,4 @@
-REM Description:All 3 digit pin passcode combinations sorted from high to low
+REM Description:All 3 digit pin passcode combinations sorted from low to high
 STRING 000
 ENTER
 DELAY 20

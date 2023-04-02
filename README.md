@@ -7,6 +7,7 @@ This includes:
 
 ### Pin Brute Force
 [4 Digit Combination Sorted By Most Common](Android/PinBruteforce/4DigitBruteforce.txt)<br>
+[4 Digit Combination Sorted By Most Common (With Delay For Attempts)](Android/PinBruteforce/4DigitBruteforceDelay.txt)<br>
 [All 2 Digit Combination](Android/PinBruteforce/2DigitAllCombs.txt)<br>
 [All 3 Digit Combination](Android/PinBruteforce/3DigitAllCombs.txt)<br>
 [All 4 Digit Combination](Android/PinBruteforce/4DigitAllCombs.txt)<br>
@@ -16,7 +17,7 @@ This includes:
 ## Windows
 
 ### Fun
-[Play Jumpscare at Max Volume (You can also modif the jumpscare.ps1 script to change what wav audio to play)](Windows/Fun/jumpscare.txt)<br>
+[Play Jumpscare at Max Volume (You can also modify the jumpscare.ps1 script to change what wav audio to play)](Windows/Fun/jumpscare.txt)<br>
 
 ### Execution
 
