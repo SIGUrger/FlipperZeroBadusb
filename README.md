@@ -1,5 +1,6 @@
 # FlipperZeroBadusb
 Repo of badusb scripts I made
+These scripts were tested on an decent computer so if your computer is really bad you probably need to up the delays on some of them
 
 This includes:
 
@@ -18,6 +19,9 @@ This includes:
 
 ### Fun
 [Play Jumpscare at Max Volume (You can also modify the jumpscare.ps1 script to change what wav audio to play)](Windows/Fun/jumpscare.txt)<br>
+
+### Misc
+[Remove Traces of you ever using your badusb (SEE DESCRIPTION IN SCRIPT)](Windows/Misc/removeTraces.txt)<br>
 
 ### Execution
 

